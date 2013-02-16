@@ -52,8 +52,8 @@ try {
 
 	// You can ADD up to 5 api keys
 	// This is a Test Key, please use your own.
-	$oMsg->addApiKey('e0bf09a4cc20ae0bcd63b30b19031ef59a458634');
-	$oMsg->setEvent('My Event!');
+	$oMsg->addApiKey( 'd6c2cf4be29c4f97f60c007d3fb4b6ba5f067b63');
+	$oMsg->setEvent('The mail has been delivered!');
 
 	// These are optional:
 	$oMsg->setDescription('My Event description.');
